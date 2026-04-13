@@ -29,5 +29,3 @@ The **Smart Traffic Violation Pattern Detector** is an AI-based system designed 
 - 📈 Pattern recognition and prediction  
 
 ---
-
-## 📂 Project Structure
