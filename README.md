@@ -30,3 +30,49 @@ Smart-Traffic-Violation-Pattern-Detector/
 │── data/            # Dataset  
 │── scripts/         # Processing scripts  
 │── README.md  
+
+## 🚀 Installation
+
+### 1. Clone the repository
+git clone https://github.com/your-username/Smart-Traffic-Violation-Pattern-Detector.git  
+cd Smart-Traffic-Violation-Pattern-Detector  
+
+### 2. Install dependencies
+# Backend  
+cd backend  
+npm install  
+
+# Frontend  
+cd ../frontend  
+npm install  
+
+### 3. Run the project
+# Start backend  
+cd backend  
+npm start  
+
+# Start frontend  
+cd ../frontend  
+npm start  
+
+## 🤖 How It Works
+1. Capture video/images from traffic cameras  
+2. Detect vehicles using computer vision  
+3. Identify violations (signal jumping, overspeeding, etc.)  
+4. Store data in database  
+5. Analyze patterns and generate reports  
+
+## 📊 Future Enhancements
+- Integration with real-time CCTV feeds  
+- License plate recognition (ANPR)  
+- Mobile app for monitoring  
+- Cloud deployment (AWS/Azure)  
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+Sanjana Sri Y
